@@ -1,0 +1,94 @@
+
+1. min = 1
+   max = 100
+
+   Total = 0
+
+for num in range(min, max+ 1)
+  if(num % 2 ! =0)
+    print('{0}'.format(num))
+    Total = Total + num
+
+
+ 2.The main difference is that the stack follows the Last In First Out principle and Queues are based on the First In First Out principle.
+  
+
+3. Time complexity of inserting an element into a hash table is O(1).
+
+4.  min = 1
+    max = 100
+
+    Total = 0
+
+   for num in range(min, max+ 1)
+     if(num % 2 =0)
+    print('{0}'.format(num))
+    Total = Total + num
+
+5 & 6. def foo(x):
+        if x > 10 ? True : False
+
+7. A stack linear data structure implies that the element that is inserted last is the first to come out  from the list
+     whilst Queues the first element that is inserted in the list first.
+
+8. SELECT * FROM employees
+   WHERE salary >  $50 000
+
+9. I handle conflicts by editing the conflicting files and selecting which changes to incorporate to a new commit from the different conflicting branches.
+
+10. A client website was returning 404 on heroku. I used heroku logs and google console  to determine the bug.
+    The database hosted on another server was not working and it crashed the site. I rectified the error by fixing the database.
+
+11. SELECT * FROM customers
+    WHERE total cost > $100
+
+12. replaceAll() method
+
+13. Sort method
+
+14. min = 1
+    max = 100
+
+    Total = 0
+
+   for num in range(min, max+ 1)
+     if(num % 2 =0)
+    print('{0}'.format(num))
+    Total = Total + num
+
+15. SELECT * FROM customers
+    WHERE total cost > $100
+
+
+16. <a href="/">Learn more</a>
+
+17. A block level element takes up the full width and always starts on a new line
+An inline element can take up any width and can be rendered in a block.
+
+18.<img src="cat.jpg" alt="Fluffy cat">
+
+
+19. <nav>
+<a href="/about">About Us</a>
+<a href="/services">Services</a>
+<a href="/contact">Contacts</a>
+   </nav>
+
+20. url = https://users.com/api/users   
+    users = requests.get(
+    url,
+    params=None
+)
+ print(users)
+
+21. url = https://users.com/api
+    json= { 'user': Vee}
+
+    user= request.post(
+        url,
+        json
+     )
+      print(user)
+
+22. REST API has no official  standard, It is  architectural and  SOAP has an official standard because it is a protocol.
+
